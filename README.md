@@ -3,8 +3,11 @@ This is an exercise project to classify brain tumor images using CNN.
 
 classes :
 'glioma_tumor',
+
 'meningioma_tumor',
+
 'normal', 
+
 'pituitary_tumor'
 
 
